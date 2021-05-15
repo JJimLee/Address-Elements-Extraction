@@ -24,11 +24,14 @@ The word “pembangunan” in raw_address “smk karya pemban, pon” is not com
 smk karya pembangunan/pon
 If there is no result for a certain address element, please leave it as empty. The returned result should also be lowercase. The ‘csv’ file should contain a header and have the following format:
 
-id	POI/street
-0	/
-1	pt tunas artha gardatama/lenteng agung barat
-2	/lenteng agung barat
-3	muh sigit wahyu p dr sp kj/jalan adi sucipto
-4	senam melinda/
+	
+| id        | POI/street                                  |
+| ----------|:-------------------------------------------:|
+| 0         |                                             |
+| 1         | pt tunas artha gardatama/lenteng agung barat|
+| 2         | lenteng agung barat                         |
+| 3         | muh sigit wahyu p dr sp kj/jalan adi sucipto|
+| 4         | senam melinda/                              |
+
 
 Your submission should have 50,000 rows, each with 2 columns.
